@@ -88,7 +88,7 @@ find_min(node)
 
 
   def findInOrderSuccessor(self, inputNode):
-    pass # your code goes here
+    pass # your code goes her
 
   # Given a binary search tree and a number, inserts a
   # new node with the given number in the correct place
