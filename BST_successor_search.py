@@ -169,6 +169,10 @@ else:
     print ("\nInorder Successor doesn't exist")
 
 
+
+  # OTher solition
+
+
 """
 Solution
 
